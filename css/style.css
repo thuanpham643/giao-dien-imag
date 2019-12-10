@@ -36,4 +36,17 @@ aside{
 	min-height: 100px;
 	background-color: #252525;
 }
+
+/*khoi*/
+.block{
+	-webkit-box-shadow: 0 7px 5px 0 #E8E8E8;
+	box-shadow: 0 7px 5px 0 #E8E8E8;
+	width: 100%;
+
+}
+.block header{
+	border-top: 2px solid cyan;
+}
+
+
 	
