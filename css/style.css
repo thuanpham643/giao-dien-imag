@@ -1,0 +1,39 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	background-color: #f6f5f1;
+}
+
+#page{
+	width: 1000px;
+	margin: 0px auto;
+
+}
+nav#main-nav{
+	background: yellow;
+}
+#body-page{
+	background-color: #fff;
+	min-height: 500px;
+}
+
+section#left-page{
+	width: 750px;
+	padding: 10px;
+	float: left;
+	background-color: cyan;
+}
+
+aside{
+	width: 250px;
+	padding: 10px;
+	float: right;
+	background-color: yellow;
+}
+.clr{ clear: both; }
+	footer#footer-page{
+	min-height: 100px;
+	background-color: #252525;
+}
+	
